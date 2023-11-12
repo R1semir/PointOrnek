@@ -1,0 +1,11 @@
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\bin\Debug\PointOrnek.exe.config
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\bin\Debug\PointOrnek.exe
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\bin\Debug\PointOrnek.pdb
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\obj\Debug\PointOrnek.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\obj\Debug\PointOrnek.Form1.resources
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\obj\Debug\PointOrnek.Properties.Resources.resources
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\obj\Debug\PointOrnek.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\obj\Debug\PointOrnek.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\obj\Debug\PointOrnek.exe
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\obj\Debug\PointOrnek.pdb
+C:\Users\legen\source\repos\PointOrnek\PointOrnek\obj\Debug\PointOrnek.Form2.resources
